@@ -5,3 +5,5 @@ I have given an image of output.
 
 Note: I have taken help to develop this, including prompts.
 ![alt text](image.png)
+
+![alt text](image-1.png)
